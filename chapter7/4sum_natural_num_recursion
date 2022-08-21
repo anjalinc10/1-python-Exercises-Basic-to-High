@@ -1,0 +1,10 @@
+def sum_recursive(n):
+    h = (n*(n+1))/2
+    return h
+    
+
+n=int(input("ENTER NATURAL NUMBER: "))
+f = sum_recursive(n)
+print(f)
+
+# [n(n+1)]/2

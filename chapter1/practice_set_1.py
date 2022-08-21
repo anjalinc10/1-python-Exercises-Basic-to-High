@@ -1,0 +1,2 @@
+
+print(''' “Twinkle, twinkle little star. How I wonder what you are?” Lulu the Owl and Juno the Star become fast friends in this Super Simple version of one of the world’s most popular nursery rhymes.''')

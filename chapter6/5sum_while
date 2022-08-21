@@ -1,0 +1,10 @@
+num = int(input("enter number:"))
+sum = 0
+n=1
+while True:
+    sum = sum + n
+    n = n + 1
+    if n > num:
+        break
+print(sum)
+

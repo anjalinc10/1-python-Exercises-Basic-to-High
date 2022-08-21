@@ -1,0 +1,1 @@
+print("\nonce i finished this exercise,\n{new line} skip one line for this \n\t {print after tab} i would be a python expert ")
